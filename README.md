@@ -13,4 +13,5 @@ Additionally, I am proactively engaging with local businesses, presenting them w
 # ⚡  Fun fact #
 
 I had the incredible opportunity to serve as the scrum master for my first hackathon organised by Code Institute. Our project centered around the vibrant theme of PRIDE🌈, aiming to create an engaging and user-friendly map that showcases the diverse history of pride events across the globe. The outcome was an outstanding website that offers an immersive experience, allowing users to explore the map, hover over countries to reveal their outlines, and delve into the captivating history of pride in each country with just a click. It fills me with joy to share that our team emerged as the first-place winners.
+<br>
 ![assertion-zOzX8o8pT6SXAnvP48L5lA](https://github.com/pjrclarke/pjrclarke/assets/128151143/0308ec0f-e97f-409b-8359-cdaeaf753c77)
