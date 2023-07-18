@@ -19,5 +19,4 @@ I had the incredible opportunity to serve as the scrum master for my first hacka
 # ✉️  Contact Me #
 
 ![https://www.linkedin.com/in/pauljrclarke/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [My LinkedIn](https://www.linkedin.com/in/pauljrclarke/)
-[![LinkedIn](https://www.linkedin.com/in/pauljrclarke/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauljrclarke)
 
