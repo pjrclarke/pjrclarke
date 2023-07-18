@@ -2,8 +2,21 @@
 
 #  🫥  About Me #
 
-Full-time code wrangler, part-time purveyor of humor. Since my coding journey began in March of this year, I have traversed remarkable strides in the realm of software development. Armed with my keyboard and fueled by copious amounts of caffeine, I am devoted to conquering bugs and overcoming the treacherous terrain of merge conflicts. With fluency in the mystical languages of binary and Python, I craft both code and puns with precision. While I undertake serious endeavors, I firmly believe that laughter is an essential ingredient for success in programming. Beyond the screen, I indulge in gaming exploits, transforming into a stealthy coding ninja. Together, let us embark on an exhilarating adventure, navigating the realms of technology and humor. Through innovation and wit, I strive to make the world a better place, one line of code and an occasional meme at a time. Join me as we break new ground and create wonders, for in just a few months, I have already made significant progress in this enchanting world of coding. Remember, when faced with uncertainty, trust in the power of Ctrl+C and Ctrl+V. Let's code, laugh, and achieve greatness together!
-
+I am currently pursuing a Full Stack Software Developer Diploma, where I have gained proficiency in HTML, CSS, JavaScript, and Python. While these are my core languages, I am also actively expanding my knowledge in other programming languages.
+<br>
+<br>
+With a solid background of 18 years in the optical industry and experience in retail and operational management, I bring a wealth of practical expertise to the table. Throughout my career, I have honed my problem-solving capabilities and developed strong communication skills, which are essential for effective collaboration within a development team.
+<br>
+<br>
+My ultimate goal is to make a transition into the tech industry, where I can leverage my existing skills while continuously enhancing my capabilities. I am eager to join an exciting development team where I can not only contribute my expertise but also thrive in a dynamic learning environment.
+<br>
+<br>
+By combining my industry experience with my passion for technology, I am confident in my ability to bring a unique perspective to software development projects. I am excited about the opportunities that lie ahead and eager to make a meaningful impact in the tech industry.
+<br>
+<br>
+I have successfully learned five different coding languages within just three months and I am actively expanding my knowledge and proficiency in them.
+<br>
+<br>
 # 🔭  Current Projects #
 
 Currently, I am actively pursuing the completion of a highly esteemed course, which has significantly enhanced my proficiency in the field of software development. In parallel, I am participating in the [Hays x SCFG Hackathon](https://app.hayscodeco.com/events/hackathon/ea799866-2ed7-4b77-862c-075779e0eb2c), collaborating with exceptional talents to conceive and implement innovative solutions. 
