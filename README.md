@@ -1,7 +1,8 @@
-### Hi there 👋
+![Blue Minimalist Business Pitch Deck Presentation](https://github.com/pjrclarke/pjrclarke/assets/128151143/49f9f887-2995-4851-81c2-420152abf784)
 
-<!--
-**pjrclarke/pjrclarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me #
+👾 Full-time code wrangler, part-time purveyor of humor. Since my coding journey began in March of this year, I have traversed remarkable strides in the realm of software development. Armed with my keyboard and fueled by copious amounts of caffeine, I am devoted to conquering bugs and overcoming the treacherous terrain of merge conflicts. With fluency in the mystical languages of binary and Python, I craft both code and puns with precision. While I undertake serious endeavors, I firmly believe that laughter is an essential ingredient for success in programming. Beyond the screen, I indulge in gaming exploits, transforming into a stealthy coding ninja. Together, let us embark on an exhilarating adventure, navigating the realms of technology and humor. Through innovation and wit, I strive to make the world a better place, one line of code and an occasional meme at a time. Join me as we break new ground and create wonders, for in just a few months, I have already made significant progress in this enchanting world of coding. Remember, when faced with uncertainty, trust in the power of Ctrl+C and Ctrl+V. Let's code, laugh, and achieve greatness together!
+
 
 Here are some ideas to get you started:
 
