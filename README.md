@@ -15,8 +15,7 @@ I have successfully learned five different coding languages within just three mo
 <br>
 <br>
 # 🔭  Current Projects #
-
-Currently, I am actively pursuing the completion of a highly esteemed course, which has significantly enhanced my proficiency in the field of software development. In parallel, I am participating in the [Hays x SCFG Hackathon](https://app.hayscodeco.com/events/hackathon/ea799866-2ed7-4b77-862c-075779e0eb2c), collaborating with exceptional talents to conceive and implement innovative solutions. 
+I am now on my final project where I intend to bring my expert knowledge from my past positions, and create something incredible with it.
 <br>
 Additionally, I am proactively engaging with local businesses, presenting them with the opportunity to leverage my freelance web development expertise. By delivering meticulously crafted websites, I aim to empower these enterprises with a robust online presence, thereby facilitating their growth and expanding their reach within the local and global markets. As I embark on this exhilarating journey, I eagerly anticipate the exciting prospects and possibilities that lie ahead.
 
