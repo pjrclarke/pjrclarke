@@ -8,9 +8,6 @@ I am currently pursuing a Full Stack Software Developer Diploma, where I have ga
 With a solid background of 18 years in the optical industry and experience in retail and operational management, I bring a wealth of practical expertise to the table. Throughout my career, I have honed my problem-solving capabilities and developed strong communication skills, which are essential for effective collaboration within a development team.
 <br>
 <br>
-My ultimate goal is to make a transition into the tech industry, where I can leverage my existing skills while continuously enhancing my capabilities. I am eager to join an exciting development team where I can not only contribute my expertise but also thrive in a dynamic learning environment.
-<br>
-<br>
 By combining my industry experience with my passion for technology, I am confident in my ability to bring a unique perspective to software development projects. I am excited about the opportunities that lie ahead and eager to make a meaningful impact in the tech industry.
 <br>
 <br>
