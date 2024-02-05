@@ -15,9 +15,7 @@ I have successfully learned five different coding languages within just three mo
 <br>
 <br>
 # 🔭  Current Projects #
-I am now on my final project where I intend to bring my expert knowledge from my past positions, and create something incredible with it.
-<br><br>
-Additionally, I am proactively engaging with local businesses, presenting them with the opportunity to leverage my freelance web development expertise. By delivering meticulously crafted websites, I aim to empower these enterprises with a robust online presence, thereby facilitating their growth and expanding their reach within the local and global markets. As I embark on this exhilarating journey, I eagerly anticipate the exciting prospects and possibilities that lie ahead.
+I am currently developing optical software with a mobile first approach ready to take the optical industry to the next level of productivity. 
 
 # ⚡  Fun fact #
 
